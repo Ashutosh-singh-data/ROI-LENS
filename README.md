@@ -1,6 +1,6 @@
 <div align="center">
 
-# ROI Lens
+# ROI LENS
 ### Advanced Marketing Attribution & Budget Refinement
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
